@@ -24,6 +24,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+#Keshav Singh's First CS193 Homework
+-The memes on the slides during the lecture
+-The useful clubs that are at the beginning of the lecture
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
