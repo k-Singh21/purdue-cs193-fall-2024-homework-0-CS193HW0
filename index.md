@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-#Keshav Singh's First CS193 Homework
+# Keshav Singh's First CS193 Homework
 -The memes on the slides during the lecture
 -The useful clubs that are at the beginning of the lecture
 ```
